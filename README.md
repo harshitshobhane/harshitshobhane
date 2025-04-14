@@ -1,5 +1,4 @@
-# 💻 Harshit Shobhane
-<h1 align="center">Hola Everyone, I'm Harshit! 👋</h1>
+<h1 align="center">💻 Hola Everyone, I'm Harshit! 👋</h1>
 
 <p align="center">
   <img src="https://your-banner-image-url.com" alt="Harshit Banner" />
