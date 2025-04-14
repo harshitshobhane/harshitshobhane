@@ -1,8 +1,5 @@
 <h1 align="center">💻 Hola Everyone, I'm Harshit! 👋</h1>
 
-<p align="center">
-  <img src="https://your-banner-image-url.com" alt="Harshit Banner" />
-</p>
 
 ### Full Stack Developer | Network Engineer | Tech Enthusiast 🚀
 
