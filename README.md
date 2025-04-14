@@ -21,7 +21,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ---
 
-## 🔐 Projects
+## 🔐 Last Project
 
 ### 🔹 [UrbanSquares](https://urban-squares.vercel.app)
 *A modern real estate web app*  
@@ -51,8 +51,8 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 ---
 
 ## 🔍 Fun Facts
-- I’m from **Bokaro Steel City**, currently working at **Nutanix**
-- Love tech, taekwondo, and creative problem-solving
+- I’m from **Bhopal**, currently working at **Nutanix**
+- Love tech, guitar, and creative problem-solving
 - Always open to collaborating on impactful tech projects!
 
 ---
