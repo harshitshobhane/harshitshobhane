@@ -58,7 +58,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 > *“Code like you mean it, secure like you own it.”*
 
 
-📊 GitHub Stats</h2>
+### 📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsharry135&theme=dark&hide_border=false" alt="GitHub Streak" />
@@ -68,7 +68,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ---
 
-🌐 Socials</h2>
+### 🌐 Socials</h2>
 
 <p align="center">
   <a href="https://instagram.com/harshitshobhane">
