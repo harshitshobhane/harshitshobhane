@@ -53,9 +53,6 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 - Love tech, guitar, and creative problem-solving
 - Always open to collaborating on impactful tech projects!
 
----
-
-> *“Code like you mean it, secure like you own it.”*
 
 
 
@@ -63,7 +60,6 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitshobhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsharry135&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itsharry135&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry135&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -71,3 +67,6 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 [![](https://visitcount.itsvg.in/api?id=itsharry135&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+> *“Code like you mean it, secure like you own it.”*
