@@ -58,11 +58,28 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 > *“Code like you mean it, secure like you own it.”*
 
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-# 📊 GitHub Stats: <h1 align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=itsharry135&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry135&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitshobhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com) 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itsharry135&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry135&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🌐 Socials</h2>
+
+<p align="center">
+  <a href="https://instagram.com/harshitshobhane">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/harshitshobhane">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harshitshobhane348@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
