@@ -47,7 +47,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/harshitshobhane](https://linkedin.com/in/harshitshobhane)
 - **GitHub:** [github.com/harshitshobhane](https://github.com/harshitshobhane)
-- **Email:** harshitshobhane@example.com (Replace with actual)
+- **Email:** harshitshobhane348@gmail.com
 
 ---
 
