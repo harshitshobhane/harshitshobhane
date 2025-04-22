@@ -38,7 +38,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 - Secure user authentication & request limiting
 - Clean UI with animations and responsive design
 
-### 🔹 [Terrapact](terrapact.vercel.app) 🌾  
+### 🔹 [Terrapact](https://terrapact.vercel.app) 🌾  
 - Connects farmers and buyers
 - Crop recommendations & plant health analysis (AI/ML)
 - AWS-powered backend with React frontend
