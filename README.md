@@ -21,13 +21,24 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ## 🔐 Last Project
 
+ ##  🔹 [TypingQuest](https://harshitshobhane.github.io/typingquest_exp/) ✨
+*An action-packed, time-travel-based typing game*
+
+-Players battle villains who send beams of words flying at them
+-Solve attacks by typing the words correctly
+-Retro-style, Pokémon-inspired interface where everything starts
+-Time travel through different eras, unlocking new villains, environments, and abilities
+-Combo multipliers, healing words, and power-ups add depth to the gameplay
+-Dynamic scoring system and level progression with RPG-like elements
+-Track your WPM and performance while engaging in intense typing combat!
+
 ### 🔹 [UrbanSquares](https://urban-squares.vercel.app)
 *A modern real estate web app*  
 - Dynamic property listings with images (ImageKit)
 - Secure user authentication & request limiting
 - Clean UI with animations and responsive design
 
-### 🔹 Assured Contract Farming System 🌾  
+### 🔹 [Terrapact](terrapact.vercel.app/) 🌾  
 - Connects farmers and buyers
 - Crop recommendations & plant health analysis (AI/ML)
 - AWS-powered backend with React frontend
