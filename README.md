@@ -23,7 +23,6 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
  ###  🔹 [TypingQuest](https://harshitshobhane.github.io/typingquest_exp/) ✨
 *An action-packed, time-travel-based typing game*
-
 -Players battle villains who send beams of words flying at them
 -Solve attacks by typing the words correctly
 -Retro-style, Pokémon-inspired interface where everything starts
