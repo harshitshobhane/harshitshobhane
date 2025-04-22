@@ -23,11 +23,11 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
  ###  🔹 [TypingQuest](https://harshitshobhane.github.io/typingquest_exp/) ✨
 *An action-packed, time-travel-based typing game*
-⚔️ Battle time-traveling villains as beams of words fly at you—only your fingers can save the day!
-⏳ Journey through eras, unlocking new abilities and powerful upgrades in a retro-inspired pixel world.
-💥 Chain combos, collect healing words, and unleash epic power-ups to defeat your enemies!
-🎯 Level up with each keystroke and track your WPM as you become a typing master!
-🌟 Can you type fast enough to save the timeline?
+- ⚔️ Battle time-traveling villains as beams of words fly at you—only your fingers can save the day!
+- ⏳ Journey through eras, unlocking new abilities and powerful upgrades in a retro-inspired pixel world.
+- 💥 Chain combos, collect healing words, and unleash epic power-ups to defeat your enemies!
+- 🎯 Level up with each keystroke and track your WPM as you become a typing master!
+- 🌟 Can you type fast enough to save the timeline?
 
 ### 🔹 [UrbanSquares](https://urban-squares.vercel.app)
 *A modern real estate web app*  
