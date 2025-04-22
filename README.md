@@ -55,8 +55,8 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ---
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=itsharry135&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry135&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=harshitshobhane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
