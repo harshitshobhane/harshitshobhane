@@ -21,7 +21,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ## 🔐 Last Project
 
- ##  🔹 [TypingQuest](https://harshitshobhane.github.io/typingquest_exp/) ✨
+ ###  🔹 [TypingQuest](https://harshitshobhane.github.io/typingquest_exp/) ✨
 *An action-packed, time-travel-based typing game*
 
 -Players battle villains who send beams of words flying at them
@@ -38,7 +38,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 - Secure user authentication & request limiting
 - Clean UI with animations and responsive design
 
-### 🔹 [Terrapact](terrapact.vercel.app/) 🌾  
+### 🔹 [Terrapact](terrapact.vercel.app) 🌾  
 - Connects farmers and buyers
 - Crop recommendations & plant health analysis (AI/ML)
 - AWS-powered backend with React frontend
