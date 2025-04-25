@@ -21,7 +21,7 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ## 🔐 Last Project
 
- ###  🔹 [TypingQuest](https://harshitshobhane.github.io/typingquest_exp/) ✨
+ ###  🔹 [TypeCraft](https://harshitshobhane.github.io/typingquest_exp/) ✨
 *An action-packed, time-travel-based typing game*
 - ⚔️ Battle time-traveling villains as beams of words fly at you—only your fingers can save the day!
 - ⏳ Journey through eras, unlocking new abilities and powerful upgrades in a retro-inspired pixel world.
