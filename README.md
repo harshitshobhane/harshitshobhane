@@ -8,7 +8,7 @@ Full Stack Developer | Network Engineer | Tech Enthusiast 🚀
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Network Engineer from **Bhopal**, currently working at **Nutanix**.  
+Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Network Engineer, currently working at **Nutanix**.  
 I love crafting scalable web apps, building secure networks, and diving deep into cloud technologies. 🚀
 
 
@@ -77,13 +77,6 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitshobhane) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com)
-
-
-
-## 🔍 Fun Facts
-- 🎯 I’m from **Bhopal**, currently working at **Nutanix**
-- 🎸 Love tech, guitar, gaming, and creative problem-solving
-- 💬 Always open to collaborating on exciting tech projects
 
 
 # 📊 GitHub Stats:<div align="center">
