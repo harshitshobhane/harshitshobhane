@@ -49,7 +49,7 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
----
+
 
 ## 🔥 Last Projects
 
@@ -72,15 +72,6 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 - 🧠 Crop recommendations & plant health analysis (AI/ML)
 - ☁️ AWS-based backend, React frontend
 
----
-
-## 📈 What I'm Working On
-- 🛠️ Building scalable APIs and cloud-native microservices
-- 🔐 Enhancing cloud security, CI/CD automation
-- 🧠 Exploring advanced AI/ML models for image and language tasks
-- 🎮 Designing fun web-based real-time games
-
----
 
 ## 📫 Let's Connect
 
@@ -88,14 +79,14 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com)
 
----
+
 
 ## 🔍 Fun Facts
 - 🎯 I’m from **Bhopal**, currently working at **Nutanix**
 - 🎸 Love tech, guitar, gaming, and creative problem-solving
 - 💬 Always open to collaborating on exciting tech projects
 
----
+
 # 📊 GitHub Stats:<div align="center">
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitshobhane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Harshit's GitHub Stats" />
@@ -104,12 +95,12 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 </div>
 
 
----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
----
+
 
 > *“Code like you mean it, secure like you own it.”* 🚀
