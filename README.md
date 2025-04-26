@@ -74,11 +74,8 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 - 💬 Always open to collaborating on exciting tech projects
 
 ---
-
-# 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=harshitshobhane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=harshitshobhane&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 > *“Code like you mean it, secure like you own it.”* 🚀
