@@ -74,14 +74,17 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 ## 📫 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitshobhane) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com)
+<p align="left">
+<a href="https://twitter.com/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitshobhane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitshobhane" height="30" width="40" /></a>
+<a href="https://instagram.com/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitshobhane" height="30" width="40" /></a>
+</p>
 
 
 # 📊 GitHub Stats:<div align="center">
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitshobhane&" alt="harshitshobhane" /></p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
 </div>
@@ -94,18 +97,6 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 
 > *“Code like you mean it, secure like you own it.”* 🚀
-> 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitshobhane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitshobhane" height="30" width="40" /></a>
-<a href="https://instagram.com/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitshobhane" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitshobhane&show_icons=true&locale=en" alt="harshitshobhane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitshobhane&" alt="harshitshobhane" /></p>
