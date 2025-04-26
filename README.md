@@ -84,10 +84,12 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 # 📊 GitHub Stats:<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitshobhane&theme=whatsapp-dark2)](https://git.io/streak-stats" />
-</p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitshobhane&theme=whatsapp-dark2" height="150" alt="GitHub Streak" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
-</div>
+</p>
+
 
 
 <picture>
