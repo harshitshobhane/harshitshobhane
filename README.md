@@ -85,7 +85,7 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=harshitshobhane&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B" alt="harshitshobhane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshitshobhane&theme=whatsapp-dark2)](https://git.io/streak-stats)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitshobhane&theme=whatsapp-dark2)](https://git.io/streak-stats" />
 </p>
 
 
