@@ -75,14 +75,12 @@ Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Networ
 
 ---
 # 📊 GitHub Stats:<div align="center">
-<div align="center">
-  <a href="https://github.com/harshitshobhane" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshitshobhane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Harshit's GitHub Stats" />
-  </a>
-  <a href="https://github.com/harshitshobhane" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
-  </a>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitshobhane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Harshit's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
 </div>
+
 
 
 ---
