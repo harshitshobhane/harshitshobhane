@@ -4,14 +4,13 @@
 Full Stack Developer | Network Engineer | Tech Enthusiast 🚀
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
 Hi there! I'm **Harshit Shobhane**, a passionate Full Stack Developer and Network Engineer from **Bhopal**, currently working at **Nutanix**.  
 I love crafting scalable web apps, building secure networks, and diving deep into cloud technologies. 🚀
 
----
 
 ## 🛠️ Tech Stack
 
