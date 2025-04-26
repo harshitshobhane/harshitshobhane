@@ -80,18 +80,9 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 
 # 📊 GitHub Stats:<div align="center">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshitshobhane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=harshitshobhane&icon=7&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
 </div>
 
@@ -100,6 +91,7 @@ I love crafting scalable web apps, building secure networks, and diving deep int
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 > *“Code like you mean it, secure like you own it.”* 🚀
