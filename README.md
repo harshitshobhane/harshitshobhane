@@ -51,28 +51,60 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 ---
 
-## 🚀 Projects
+## 🔥 Last Projects
 
-- **[TypeCraft](https://typecraft-pi.vercel.app)**: Typing + Time Travel game (Pixel action!)
-- **[UrbanSquares](https://urban-squares.vercel.app)**: Real estate listings app (Responsive & Secure)
-- **[Terrapact](https://terrapact.vercel.app)**: Contract farming with AI crop analysis
+### 🔹 [TypeCraft](https://typecraft-pi.vercel.app) ✨ (Under Construction)
+*An action-packed, time-travel-based typing game*  
+- ⚔️ Battle time-traveling villains with your typing skills!
+- ⏳ Journey through different eras with pixel-retro vibes.
+- 💥 Chain combos, collect healing boosts, and unleash powers.
+- 🎯 Level up your WPM and dominate the typing battlefield!
+
+### 🔹 [UrbanSquares](https://urban-squares.vercel.app)
+*A modern real estate web app*  
+- 🏡 Dynamic property listings
+- 🔒 Secure authentication & rate limiting
+- ✨ Clean, animated, and fully responsive UI
+
+### 🔹 [Terrapact](https://terrapact.vercel.app) 🌾
+*Contract Farming Platform*  
+- 🤝 Connects farmers and buyers directly
+- 🧠 Crop recommendations & plant health analysis (AI/ML)
+- ☁️ AWS-based backend, React frontend
 
 ---
 
-## 📈 GitHub Stats
+## 📈 What I'm Working On
+- 🛠️ Building scalable APIs and cloud-native microservices
+- 🔐 Enhancing cloud security, CI/CD automation
+- 🧠 Exploring advanced AI/ML models for image and language tasks
+- 🎮 Designing fun web-based real-time games
 
+---
+
+## 📫 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitshobhane) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com)
+
+---
+
+## 🔍 Fun Facts
+- 🎯 I’m from **Bhopal**, currently working at **Nutanix**
+- 🎸 Love tech, guitar, gaming, and creative problem-solving
+- 💬 Always open to collaborating on exciting tech projects
+
+---
+# 📊 GitHub Stats:<div align="center">
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitshobhane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Harshit's GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
 </div>
 
----
 
-## 📬 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitshobhane)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitshobhane)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:harshitshobhane348@gmail.com)
 
 ---
 
-> *"Code like you mean it, secure like you own it."* 🚀
+> *“Code like you mean it, secure like you own it.”* 🚀
