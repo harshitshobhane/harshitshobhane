@@ -87,6 +87,7 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 </div>
 
 
+![GitHub total commits](https://img.shields.io/github/commit-activity/y/harshitshobhane?label=Total%20Commits&color=FF6EC7&style=for-the-badge)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
