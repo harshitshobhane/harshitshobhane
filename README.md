@@ -80,14 +80,20 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 
 # 📊 GitHub Stats:<div align="center">
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<img src="https://github-metrics.vercel.app/api?username=harshitshobhane&theme=dark&base=header,activity,community,repositories&plugin=anime&config_timezone=Asia/Kolkata&config_display=large" alt="Harshit Shobhane's Anime Metrics" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshitshobhane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshobhane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=harshitshobhane&icon=7&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitshobhane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Harshit's Top Languages" />
 </div>
-
-
-![GitHub total commits](https://img.shields.io/github/commit-activity/y/harshitshobhane?label=Total%20Commits&color=FF6EC7&style=for-the-badge)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
