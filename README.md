@@ -61,7 +61,7 @@ I love crafting scalable web apps, building secure networks, and diving deep int
 
 ### 🔹 [UrbanSquares](https://urban-squares.vercel.app)
 *A modern real estate web app*  
-- 🏡 Dynamic property listings
+- 🏡 Dynamic property listings.
 - 🔒 Secure authentication & rate limiting
 - ✨ Clean, animated, and fully responsive UI
 
