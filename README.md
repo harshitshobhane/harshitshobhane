@@ -4,8 +4,6 @@
 Full Stack Developer | Network Engineer | Tech Enthusiast 🚀
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 Hi there! I'm **Harshit Rajpriya Shobhane**, a passionate **Full Stack Developer** and **Network Engineer**.  
@@ -16,7 +14,6 @@ Alongside, I build scalable **web applications and platforms** that solve real-w
 
 🌐 Check out my portfolio → **[iharshit.com](https://iharshit.com)**  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +51,7 @@ Alongside, I build scalable **web applications and platforms** that solve real-w
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
----
+
 
 ## 💼 Experience
 
@@ -73,7 +70,7 @@ Alongside, I build scalable **web applications and platforms** that solve real-w
 - Built a **Pokémon-style RPG game** with 100+ sprites and persistent player data using **Phaser.js + MongoDB**.  
 - Reduced load time by **30%** with optimized REST API design.  
 
----
+
 
 ## 🔥 Projects
 
@@ -88,7 +85,7 @@ Stack: **MERN + AWS S3 + JWT Auth**
 ### [OurTopClinic](https://ourtopclinic.vercel.app) 🏥  
 Telehealth platform with **HIPAA compliance, Stripe billing, and Clerk auth**.  
 
----
+
 
 ## 🏆 Achievements
 - 🥇 **Smart India Hackathon** — Built Smart Farming Contract Platform, selected among **top national teams**.  
@@ -96,7 +93,7 @@ Telehealth platform with **HIPAA compliance, Stripe billing, and Clerk auth**.
 - 📌 **Open Source** — Contributed features and optimizations to **React & Express.js projects**.  
 - 🎭 **Club Lead (Rangbaaz)** — Leading college drama club, organizing plays & events.  
 
----
+
 
 ## 📫 Let's Connect
 
@@ -108,7 +105,7 @@ Telehealth platform with **HIPAA compliance, Stripe billing, and Clerk auth**.
 <a href="https://instagram.com/harshitshobhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitshobhane" height="30" width="40" /></a>
 </p>
 
----
+
 
 # 📊 GitHub Stats
 <div align="center">
@@ -119,6 +116,6 @@ Telehealth platform with **HIPAA compliance, Stripe billing, and Clerk auth**.
 
 </div>
 
----
+
 
 > *“Code like you mean it, secure like you own it.”* 🚀
