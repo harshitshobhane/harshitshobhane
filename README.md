@@ -84,7 +84,7 @@ Stack: **MERN + AWS S3 + JWT Auth**
 
 ## 🚀 Startup
 
-### 🔹 [OurTopClinic](https://ourtopclinic.com) — Technical Lead 🏥  
+### 🔹 [OurTopClinic](https://ourtopclinic.com) — Stakeholder , Technical Lead 🏥  
 *A U.S.-based healthcare platform*  
 - Built a **HIPAA-compliant telehealth platform** as a personal startup.  
 - Integrated **Telnyx APIs** for secure **virtual appointments** with video consults.  
