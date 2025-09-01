@@ -11,9 +11,11 @@ Full Stack Developer | Network Engineer | Tech Enthusiast 🚀
 Hi there! I'm **Harshit Rajpriya Shobhane**, a passionate **Full Stack Developer** and **Network Engineer**.  
 Currently pursuing **B.Tech in Computer Science & Engineering** at **IIIT Ranchi (2022–26)**.  
 
-I’ve worked as a **Network Engineering Intern and Full-time Engineer at Nutanix**, gaining hands-on expertise in **datacenter networking, cloud infrastructure, and secure system design**. Alongside, I build scalable **web applications and platforms** that solve real-world problems. 🚀
+I’ve worked as a **Network Engineering Intern and Full-time Engineer at Nutanix**, gaining hands-on expertise in **datacenter networking, cloud infrastructure, and secure system design**.  
+Alongside, I build scalable **web applications and platforms** that solve real-world problems. 🚀  
 
 🌐 Check out my portfolio → **[iharshit.com](https://iharshit.com)**  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -24,19 +26,33 @@ I’ve worked as a **Network Engineering Intern and Full-time Engineer at Nutani
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
-### ☁️ Cloud & Networking
+### ☁️ Cloud, Networking & Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Telnyx](https://img.shields.io/badge/Telnyx-%2300B67A.svg?style=for-the-badge&logo=telnyx&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-%2302569B.svg?style=for-the-badge&logo=clerk&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%230073B0.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Juniper](https://img.shields.io/badge/Juniper-%230073B0.svg?style=for-the-badge&logo=juniper-networks&logoColor=white)
 ![Nutanix](https://img.shields.io/badge/Nutanix-%23000000.svg?style=for-the-badge&logo=nutanix&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/Phaser.js-%23E57373.svg?style=for-the-badge&logo=phaser&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
@@ -69,7 +85,7 @@ Stack: **Phaser.js, Three.js, WebSockets, MongoDB, TailwindCSS**
 Contract farming platform for farmers & buyers.  
 Stack: **MERN + AWS S3 + JWT Auth**  
 
-### [OurTopClinic](https://ourtopclinic.com) 🏥  
+### [OurTopClinic](https://ourtopclinic.vercel.app) 🏥  
 Telehealth platform with **HIPAA compliance, Stripe billing, and Clerk auth**.  
 
 ---
