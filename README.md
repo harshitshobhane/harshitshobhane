@@ -59,7 +59,7 @@ Alongside, I build scalable **web applications and platforms** that solve real-w
 - Worked on **datacenter networking and virtualization infrastructure**, optimizing performance and reliability.  
 - Configured and troubleshooted **Cisco & Juniper networks**, ensuring high-availability enterprise systems.  
 - Automated deployment workflows for **cloud-native services and secure multi-tenant environments**.  
-- Collaborated with cross-functional teams to improve scalability of Nutanix products for global customers.  
+- Collaborated with cross-functional teams to improve the scalability of Nutanix products for global customers.  
 
 ### 🔹 [OurTopClinic](https://ourtopclinic.vercel.app) — Technical Lead (Feb 2025 – Present)  
 - Built a **HIPAA-compliant telehealth platform** with real-time video consults and digital prescriptions.  
@@ -74,7 +74,7 @@ Alongside, I build scalable **web applications and platforms** that solve real-w
 
 ## 🔥 Projects
 
-### [TypeCraft](https://typecraft-ivory.vercel.app/) 🎮  
+### [TypeCraft](https://canyoutype.vercel.app/) 🎮  
 Multiplayer typing game with real-time battles and learning modes.  
 Stack: **Phaser.js, Three.js, WebSockets, MongoDB, TailwindCSS**  
 
@@ -82,9 +82,16 @@ Stack: **Phaser.js, Three.js, WebSockets, MongoDB, TailwindCSS**
 Contract farming platform for farmers & buyers.  
 Stack: **MERN + AWS S3 + JWT Auth**  
 
-### [OurTopClinic](https://ourtopclinic.vercel.app) 🏥  
-Telehealth platform with **HIPAA compliance, Stripe billing, and Clerk auth**.  
+## 🚀 Startup
 
+### 🔹 [OurTopClinic](https://ourtopclinic.com) — Technical Lead 🏥  
+*A U.S.-based healthcare platform*  
+- Built a **HIPAA-compliant telehealth platform** as a personal startup.  
+- Integrated **Telnyx APIs** for secure **virtual appointments** with video consults.  
+- Added **Weno integration** for sending e-prescriptions directly to pharmacies.  
+- Designed **insurance workflows** to handle U.S. Florida healthcare compliance.  
+- Architected scalable backend with **PostgreSQL + Prisma on Aiven**, deployed on **Vercel (CI/CD)**.  
+- Implemented **Clerk-based multi-role authentication** and **Stripe billing** for patient subscriptions.  
 
 
 ## 🏆 Achievements
