@@ -82,6 +82,13 @@ Stack: **Phaser.js, Three.js, WebSockets, MongoDB, TailwindCSS**
 Contract farming platform for farmers & buyers.  
 Stack: **MERN + AWS S3 + JWT Auth**  
 
+### [iharshit.com](https://iharshit.com) 🌐  
+My **personal portfolio website**, designed as a **multi-route platform** for:  
+- 📄 Recruiters → Easy access to resume, projects, and achievements.  
+- 💻 Fellow Developers → Showcasing open-source contributions and technical blogs.  
+- 👀 Stalkers → A fun, interactive way to explore my journey.  
+Stack: **Next.js, React, TailwindCSS, Vercel (CI/CD)**  
+
 ## 🚀 Startup
 
 ### 🔹 [OurTopClinic](https://ourtopclinic.com) — Stakeholder , Technical Lead 🏥  
