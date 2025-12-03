@@ -7,7 +7,7 @@ Full Stack Developer | Network Engineer | Tech Enthusiast 🚀
 ## 👨‍💻 About Me
 
 Hi there! I'm **Harshit Rajpriya Shobhane**, a passionate **Full Stack Developer** and **Network Engineer**.  
-Currently pursuing **B.Tech in Computer Science & Engineering** at **IIIT Ranchi (2022–26)**.  
+Graduated in **B.Tech in Computer Science & Engineering** from **IIIT Ranchi**.  
 
 I’ve worked as a **Network Engineering Intern and Full-time Engineer at Nutanix**, gaining hands-on expertise in **datacenter networking, cloud infrastructure, and secure system design**.  
 Alongside, I build scalable **web applications and platforms** that solve real-world problems. 🚀  
